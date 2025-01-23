@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <manifest>
+      <!-- blobs for Sony device trees -->
+      <project name="ATI-Experiments/android_device_sony_yoshino" path="device/sony/yoshino" remote="github" revision="lineage-22.1" />
+      <project name="ATI-Experiments/android_device_sony_yoshino-common" path="device/sony/yoshino-common" remote="github" revision="lineage-22.1" />
+
+      <!-- blobs for msm8998 kernel -->
+      <project name="ATI-Experiments/android_kernel_sony_msm8998" path="kernel/sony/mam8998" remote="github" revision="lineage-22.1" />
+    
+      <!-- blobs for msm8998 vendor -->
+      <project name="ATI-Experiments/vendor_sony_yoshino" path="vendor/sony/yoshino" remote="github" revision="lineage-22.1" />
+      <project name="ATI-Experiments/vendor_sony_yoshino-common" path="vendor/sony/yoshino-common" remote="github" revision="lineage-22.1" />
+      <project name="ATI-Experiments/vendor_sony_yoshino" path="vendor/yoshino/camera" remote="github" revision="lineage-22.1" />
+  </manifest>
