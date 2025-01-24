@@ -10,5 +10,5 @@
       <!-- blobs for msm8998 vendor -->
       <project name="ATI-Experiments/android_vendor_sony_yoshino" path="vendor/sony/yoshino" remote="github" revision="lineage-22.1" />
       <project name="ATI-Experiments/android_vendor_sony_yoshino-common" path="vendor/sony/yoshino-common" remote="github" revision="lineage-22.1" />
-      <project name="ATI-Experiments/android_vendor_sony_yoshino" path="vendor/yoshino/camera" remote="github" revision="lineage-22.1" />
+      <project name="ATI-Experiments/android_vendor_sony_camera" path="vendor/sony/camera" remote="github" revision="lineage-22.1" />
   </manifest>
